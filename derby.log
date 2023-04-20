@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Apr 20 19:27:55 SGT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0187-9e6b-c030-0000031ae920 
+on database directory C:\Users\Admin\Documents\NetBeansProjects\Library Assistant\database with class loader sun.misc.Launcher$AppClassLoader@33909752 
+Loaded from file:/C:/Users/Admin/Documents/NetBeansProjects/Library%20Assistant/dist/run678373889/lib/derby.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=1.8.0_362-b09
+user.dir=C:\Users\Admin\Documents\NetBeansProjects\Library Assistant
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
